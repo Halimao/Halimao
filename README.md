@@ -1,7 +1,7 @@
-### Hi there, I’m [Halimao](https://halimao.party/) <img src="https://github.com/Halimao/Halimao/blob/master/wave.gif" width="25px">
+### Hi there, I’m [Halimao](https://halimao.party/) <img src="wave.gif" width="25px">
 
 
-<img align='right' src="https://github.com/Halimao/Halimao/blob/master/code_night.gif" width="350" />
+<img align='right' src="code_night.gif" width="350" />
 
 <br />
 <br />
