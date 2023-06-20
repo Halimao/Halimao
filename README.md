@@ -27,7 +27,7 @@
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=halimao&theme=xcode&bg_color=FF000000&hide_border=true" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Halimao&custom_title=Halimao%20Contribution%20Graph&hide_border=true&theme=react-dark" />
     </td>
   </tr>
 </table>
