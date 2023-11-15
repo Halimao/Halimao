@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning block-chain.
 - 👯 I’m looking to collaborate on block-chain and so on…
 - 💬 Ask me about Anything you want~
-- 📫 Reach me: halimao.lin@gmail.com
 - 😄 Pronouns: Halimao
 - ⚡ Fun fact: Watching movies and traveling.
 
