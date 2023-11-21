@@ -7,7 +7,7 @@
 <br />
 
 - 🔭 I am currently working as a Gopher.
-- 🌱 I’m currently learning block-chain.
+- 🌱 I’m currently learning rust, block-chain.
 - 👯 I’m looking to collaborate on block-chain and so on…
 - 💬 Ask me about Anything you want~
 - 😄 Pronouns: Halimao
