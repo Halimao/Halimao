@@ -1,3 +1,5 @@
+Ghost doesn't have any activities yet.
+<!--
 ### Hi there, I’m [Halimao](https://halimao.party/) <img src="wave.gif" width="25px">
 
 
@@ -35,3 +37,4 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/halimao/count.svg" />
 </p>
+-->
