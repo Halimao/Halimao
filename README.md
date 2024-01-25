@@ -1,4 +1,8 @@
-Ghost doesn't have any activities yet.
+👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻
+
+👻👻👻  Ghost doesn't have any activities yet. 👻👻👻
+
+👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻
 <!--
 ### Hi there, I’m [Halimao](https://halimao.party/) <img src="wave.gif" width="25px">
 
